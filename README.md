@@ -1,5 +1,5 @@
 Halo semua! saya membuat repositori ini untuk menyimpan proyek ini!
-baca docs di [tailwind CSS](https://tailwindcss.com/docs/installation) atau lihat di bawah ini
+baca docs di [tailwind CSS](https://tailwindcss.com/docs/installation) atau lihat di bawah ini!
 
 # Install Tailwind CSS
 Install `tailwindcss` via npm, and create your `tailwind.config.js` file.
